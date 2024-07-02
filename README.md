@@ -1,6 +1,6 @@
 **UniVerse**
 
-This repository contains the codebase for the UniVerse project, an initiative aimed at preserving and celebrating cultural heritage through digital storytelling. The project consists of two main components: the backend (api) and the frontend (client).
+This repository contains the codebase for the UniVerse project, I co-founded UniVerse to solve daily university challenges. Our digital solution streamlined event management, improved dining experiences, and enhanced laundry services. I gained experience in HTML/CSS for frontend, JavaScript for backend, and utilized MongoDB for its NoSQL capabilities. 
 
 ### Project Structure
 
