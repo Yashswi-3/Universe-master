@@ -2,11 +2,6 @@
 
 This repository contains the codebase for the UniVerse project, I co-founded UniVerse to solve daily university challenges. Our digital solution streamlined event management, improved dining experiences, and enhanced laundry services. I gained experience in HTML/CSS for frontend, JavaScript for backend, and utilized MongoDB for its NoSQL capabilities. 
 
-### Project Structure
-
-- **backend-api:** This folder contains the backend codebase, including the API endpoints, data storage, and business logic.
-- **frontend-client:** This folder contains the frontend codebase, including the user interface and interactions.
-
 ### Getting Started
 
 To run the frontend client:
